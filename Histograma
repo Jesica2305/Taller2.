@@ -17,4 +17,4 @@ while True:
         print("Recuerde ingresar números enteros")
 
 print("Positivos: " + "*" * positivos)
-print("Negativos: " + "*" * negativos
+print("Negativos: " + "*" * negativos)
